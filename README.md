@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  🧩 Ranked 1st in Major &nbsp;|&nbsp; 🏆 Undergraduate National Scholarship
+ 🏆 Undergraduate National Scholarship
 </p>
 
 <p align="center">
