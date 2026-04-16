@@ -3,7 +3,7 @@
 <h1 align="center">👋 Hi, I'm Lynnzhou ✨</h1>
 
 <p align="center">
-  I’m an M.Eng. student at UESTC, School of Information and Communication Engineering.
+  M.Eng. student at UESTC, currently focusing on multimodal learning, image enhancement, image restoration, and computer vision.
 </p>
 
 <p align="center">
@@ -21,18 +21,26 @@
 ---
 
 ## About Me
-I'm a Master of Engineering student at UESTC, exploring LLM application algorithms, multimodal understanding, and computer vision.
 
-I’m currently learning about LLM application algorithms, agent systems, multimodal understanding, and computer vision, while building a stronger understanding of how practical AI systems work in real-world scenarios.
+<p align="center">
+  I’m a Master of Engineering student in the School of Information and Communication Engineering at UESTC.<br/>
+  I enjoy exploring how AI systems work and turning research ideas into practical, useful applications.<br/>
+  I’m always happy to connect and chat about AI, research, and interesting things worth building.
+</p>
 
 ---
 
 ## 🚀 What I’m Focused On
 
-- Multimodal large models
-- Image enhancement research
-- Image restoration research
-- Computer vision
+<table align="center" cellspacing="16">
+  <tr>
+    <td align="center">✅ Multimodal</td>
+    <td align="center">✅ Image Enhancement</td>
+    <td align="center">✅ Image Restoration</td>
+    <td align="center">✅ Computer Vision</td>
+  </tr>
+</table>
+
 ---
 
 ## 📈 My GitHub Streak
@@ -45,9 +53,9 @@ I’m currently learning about LLM application algorithms, agent systems, multim
 
 ## 🧰 Languages & Tools
 
-<p align="center">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,git,github,fastapi,opencv,md,vscode,anaconda,docker,c&perline=11" width="890" />
-</p>
+</div>
 
 ---
 
