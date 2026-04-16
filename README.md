@@ -20,7 +20,7 @@
 
 ---
 
-## 🏠 A Little About Me
+## 🏠 About Me
 
 <p align="center">
   I’m a Master of Engineering student in the School of Information and Communication Engineering at UESTC.<br/>
@@ -30,7 +30,7 @@
 
 ---
 
-## 🚀 What I’m Focused On
+## 🚀 Reasearch
 
 <table align="center" cellspacing="16">
   <tr>
