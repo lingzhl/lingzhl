@@ -61,5 +61,5 @@
 
 ## 📫 Contact with Me
 
-- ✉️ Email: zhlng612024@163.com
+- 📧 Email: zhlng612024@163.com
 - <img src="https://skillicons.dev/icons?i=github" width="18" /> GitHub: https://github.com/lingzhl
