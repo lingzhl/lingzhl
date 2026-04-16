@@ -24,7 +24,6 @@
 
 <p align="center">
   I’m a Master of Engineering student in the School of Information and Communication Engineering at UESTC.<br/>
-  I enjoy exploring how AI systems work and turning research ideas into practical, useful applications.<br/>
   I’m always happy to connect and chat about AI, research, and interesting things worth building.
 </p>
 
