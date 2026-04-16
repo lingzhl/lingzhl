@@ -3,7 +3,7 @@
 <h1 align="center">👋 Hi, I'm Lynnzhou ✨</h1>
 
 <p align="center">
-  M.Eng. student at UESTC, currently focusing on multimodal learning, image enhancement, image restoration, and computer vision.
+  M.Eng. student at UESTC, interested in turning research ideas into practical AI systems.
 </p>
 
 <p align="center">
@@ -11,11 +11,7 @@
 </p>
 
 <p align="center">
-  🤖 LLM Application Algorithms &nbsp;·&nbsp; 🫧 Agent Systems &nbsp;·&nbsp; 👁️ Multimodal Understanding &nbsp;·&nbsp; 📷 Computer Vision
-</p>
-
-<p align="center">
-  ✨ Curious &nbsp;|&nbsp; 🌸 Energetic &nbsp;|&nbsp; 🔍 Research-Driven &nbsp;|&nbsp; 🛠️ Builder at Heart
+  ⚙️ Applied AI &nbsp;·&nbsp; 🔍 Research to Practice &nbsp;·&nbsp; 🛠️ System Building &nbsp;·&nbsp; 🌱 Always Learning
 </p>
 
 ---
@@ -23,9 +19,9 @@
 ## About Me
 
 <p align="center">
-  I’m a Master of Engineering student in the School of Information and Communication Engineering at UESTC.<br/>
-  I enjoy exploring how AI systems work and turning research ideas into practical, useful applications.<br/>
-  I’m always happy to connect and chat about AI, research, and interesting things worth building.
+  I study in the School of Information and Communication Engineering at UESTC.<br/>
+  I enjoy learning how intelligent systems work, solving problems step by step, and building things that are both useful and well-structured.<br/>
+  I’m also someone who values curiosity, consistency, and thoughtful collaboration.
 </p>
 
 ---
