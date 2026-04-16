@@ -20,7 +20,7 @@
 
 ---
 
-## 🏠 About Me
+## 🏠 A Little About Me
 
 <p align="center">
   I’m a Master of Engineering student in the School of Information and Communication Engineering at UESTC.<br/>
