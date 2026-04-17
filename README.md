@@ -42,6 +42,13 @@
 
 ---
 
+## 📈 My GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=lingzhl&hide_border=true&background=FFFFFF00" />
+</p>
+
+---
 
 ## 🧰 Languages & Tools
 
