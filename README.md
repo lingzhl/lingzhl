@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  🤖 LLM Application Algorithms &nbsp;·&nbsp; 🧩 Agent Systems &nbsp;·&nbsp; 👁️ Multimodal Understanding &nbsp;·&nbsp; 📷 Computer Vision
+  🤖 LLM Application Algorithms &nbsp;·&nbsp; 🌱 Agent Systems &nbsp;·&nbsp; 👁️ Multimodal Understanding &nbsp;·&nbsp; 📷 Computer Vision
 </p>
 
 <p align="center">
