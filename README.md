@@ -42,6 +42,14 @@
 
 ---
 
+## 🧰 Languages & Tools
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,git,github,fastapi,opencv,md,vscode,anaconda,docker,c&perline=11" width="890" />
+</div>
+
+---
+
 ## 📫 Contact with Me
 
 - 📧 Email: zhlng612024@163.com
