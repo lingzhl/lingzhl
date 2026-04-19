@@ -20,15 +20,6 @@
 
 ---
 
-## 🏠 About Me
-
-<p align="center">
-  I’m a Master of Engineering student in the School of Information and Communication Engineering at UESTC.<br/>
-  I’m always happy to connect and chat about AI, research, and interesting things worth building.
-</p>
-
----
-
 ## 🚀 Reasearch
 
 <table align="center" cellspacing="16">
