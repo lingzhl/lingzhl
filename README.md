@@ -1,4 +1,4 @@
-<h1 align="center">Hi~ I'm Lynnzhou 👋</h1>
+<h1 align="center">Hi~ I'm lingzhl 👋</h1>
 
 <h3 align="center">M.Eng. student at UESTC | Recommendation Algorithms | LLM Post-training | Multimodal Learning</h3>
 
@@ -57,16 +57,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lingzhl&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lingzhl&theme=tokyonight" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lingzhl&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=lingzhl&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lingzhl&theme=github" />
 </p>
 
 ---
