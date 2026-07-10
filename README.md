@@ -1,6 +1,6 @@
 <h1 align="center">Hi~ I'm Lynn 👋</h1>
 
-<h3 align="center">Recommendation Algorithms | LLM Post-training | Multimodal Learning</h3>
+<h3 align="center">M.Eng. student at UESTC | Recommendation Algorithms | LLM Post-training | Multimodal Learning</h3>
 
 ---
 
