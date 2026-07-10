@@ -1,12 +1,12 @@
-<h1 align="center">Hi~ I'm lingzhl 👋</h1>
+<h1 align="center">Hi~ I'm Lynn 👋</h1>
 
-<h3 align="center">M.Eng. student at UESTC | Recommendation Algorithms | LLM Post-training | Multimodal Learning</h3>
+<h3 align="center">Recommendation Algorithms | LLM Post-training | Multimodal Learning</h3>
 
 ---
 
 ### 🚀 About Me
 
-- 🎓 M.Eng. student at **UESTC**
+- 🎓 M.Eng. student
 - 🏆 Undergraduate National Scholarship
 - 🔭 Currently working on **E-commerce Generative Recommendation**
 - 🌱 Learning **Semantic ID, SFT, GRPO, LLM Alignment, and Recommendation Reasoning**
@@ -57,7 +57,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lingzhl&theme=github" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lingzhl&theme=github&v=2" />
 </p>
 
 ---
