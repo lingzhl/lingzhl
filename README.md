@@ -28,35 +28,12 @@
 
 ---
 
-### 📌 Featured Projects
-
-- [**ecom-genrec**](https://github.com/lingzhl/ecom-genrec)  
-  OneRec-style e-commerce generative recommendation project with **Amazon Reviews 2023, Semantic ID, Qwen2.5-1.5B SFT, GRPO, cold-start evaluation, and ablation tables**.
-
-- [**Restormer**](https://github.com/lingzhl/Restormer)  
-  Computer vision and image restoration learning / reproduction project.
-
----
-
-### 📚 Recent Focus
-
-- Day 1: Smoke test and generative recommendation pipeline understanding
-- Day 2: Amazon Reviews 2023 data processing and metadata normalization
-- Next: Baselines, Semantic ID, multitask SFT, GRPO, and full evaluation tables
-
----
-
-### 📫 Connect With Me
-
-- GitHub: [@lingzhl](https://github.com/lingzhl)
-- Project: [ecom-genrec](https://github.com/lingzhl/ecom-genrec)
-- Email: `3332835039@qq.com`
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Own%20and%20Contributed%20Project%20Stars-78-FFD700?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Own%20and%20Contributed%20Project%20Forks-66-6A5ACD?style=flat-square&logo=github" />
+  <br />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lingzhl&theme=github&v=2" />
 </p>
 
