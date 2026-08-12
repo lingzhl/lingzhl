@@ -31,8 +31,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Own%20and%20Contributed%20Project%20Stars-78-FFD700?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/badge/Own%20and%20Contributed%20Project%20Forks-66-6A5ACD?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Own%20%2B%20Contributed%20Stars-78-FFB000?style=for-the-badge&logo=github&logoColor=white&labelColor=24292F" />
+  <img src="https://img.shields.io/badge/Own%20%2B%20Contributed%20Forks-66-7C3AED?style=for-the-badge&logo=git&logoColor=white&labelColor=24292F" />
   <br />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lingzhl&theme=github&v=2" />
 </p>
