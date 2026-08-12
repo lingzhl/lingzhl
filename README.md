@@ -28,6 +28,13 @@
 
 ---
 
+### 🤝 Contributed Project
+
+- [**YYAbroad**](https://github.com/limouren2000/YYAbroad)  
+  A contributed project with travel planning and study-abroad support features.
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
