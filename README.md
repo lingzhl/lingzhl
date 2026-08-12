@@ -38,8 +38,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="assets/project-impact.svg" />
-  <br />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lingzhl&theme=github&v=2" />
 </p>
 
