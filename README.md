@@ -26,15 +26,6 @@
   <img src="https://img.shields.io/badge/Computer%20Vision-6A5ACD?style=flat-square" />
 </p>
 
----
-
-### 🤝 Contributed Project
-
-- [**YYAbroad**](https://github.com/limouren2000/YYAbroad)  
-  A contributed project with travel planning and study-abroad support features.
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
