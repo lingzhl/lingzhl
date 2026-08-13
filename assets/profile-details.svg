@@ -11,9 +11,11 @@
 
   <g transform="translate(30 70)">
     <g fill="#586069">
-      <circle cx="8" cy="8" r="7" fill="none" stroke="#586069" stroke-width="1.5"/>
-      <path d="M8 4v4l2.5 1.5" fill="none" stroke="#586069" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-      <path d="M1 36h14M4 32v8M12 32v8" fill="none" stroke="#586069" stroke-width="1.5" stroke-linecap="round"/>
+      <circle cx="3" cy="8" r="2.5"/>
+      <circle cx="13" cy="3" r="2.5"/>
+      <circle cx="13" cy="13" r="2.5"/>
+      <path d="M5 7l5.5-3M5 9l5.5 3" fill="none" stroke="#586069" stroke-width="1.5" stroke-linecap="round"/>
+      <path d="M2 33h12l2 4v7H0v-7l2-4Zm1 0v-4h8v4M0 38h16" fill="none" stroke="#586069" stroke-width="1.5" stroke-linejoin="round"/>
       <path d="M8 53a7 7 0 1 0 0 14 7 7 0 0 0 0-14Zm0 3v5l3 2" fill="none" stroke="#586069" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
       <path d="M8 81 10.2 86l5.3.5-4 3.5 1.2 5.2L8 92.5l-4.7 2.7 1.2-5.2-4-3.5 5.3-.5Z" fill="none" stroke="#586069" stroke-width="1.1" stroke-linejoin="round"/>
     </g>
