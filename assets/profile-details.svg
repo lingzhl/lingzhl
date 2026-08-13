@@ -2,13 +2,10 @@
   <title id="title">lingzhl GitHub profile details</title>
   <desc id="desc">46 GitHub contributions, 1 public repository, joined GitHub two years ago, and 65 stars. The contribution chart covers the last year.</desc>
   <style>
-    .title { fill: #0366D6; font: 600 22px "Segoe UI", Ubuntu, "Helvetica Neue", sans-serif; }
     .label { fill: #586069; font: 14px "Segoe UI", Ubuntu, "Helvetica Neue", sans-serif; }
     .axis { fill: #586069; font: 10px sans-serif; }
   </style>
   <rect x="1" y="1" width="698" height="198" rx="5" fill="#FFFFFF" stroke="#E4E2E2"/>
-  <text x="30" y="40" class="title">lingzhl (Lynn)</text>
-
   <g transform="translate(30 70)">
     <g fill="#586069">
       <circle cx="3" cy="8" r="2.5"/>
