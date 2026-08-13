@@ -20,9 +20,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lingzhl&theme=github&chart_color=ecfded&v=3" />
-  <br />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lingzhl&theme=github&v=3" alt="GitHub stars statistics" />
+  <img src="assets/profile-details.svg" alt="GitHub profile details and contribution chart" />
 </p>
 
 ---
