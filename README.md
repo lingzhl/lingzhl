@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fredoka&weight=600&size=34&duration=2600&pause=1200&color=A855F7&center=true&vCenter=true&width=520&lines=Hi~+I%27m+Lynn+%F0%9F%91%8B" alt="Hi~ I'm Lynn typing title" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fredoka&weight=600&size=34&duration=2600&pause=1200&color=2F855A&center=true&vCenter=true&width=520&lines=Hi~+I%27m+Lynn+%F0%9F%91%8B" alt="Hi~ I'm Lynn typing title" />
 </p>
 
 ### About Me
@@ -14,10 +14,9 @@
 
 ### Currently Focusing On
 
-- Recommender systems
-- Multimodal learning
-- Computer vision
-- Agents
+<p align="center">
+  <img src="assets/current-focus.svg" alt="Currently focusing on" />
+</p>
 
 ---
 
