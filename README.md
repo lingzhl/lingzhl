@@ -1,19 +1,14 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=40&duration=2400&pause=1200&color=FF7AC8&center=true&vCenter=true&width=520&lines=Hi~+I%27m+Lynn+%F0%9F%91%8B" alt="Hi~ I'm Lynn typing title" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=26&duration=2600&pause=1200&color=A855F7&center=true&vCenter=true&width=720&lines=Hi~+I%27m+Lynn+%F0%9F%91%8B" alt="Hi~ I'm Lynn typing title" />
 </p>
 
-<h3 align="center">M.Eng. student at UESTC | Recommendation Algorithms | LLM Post-training | Multimodal Learning</h3>
+### 关于我
 
----
-
-### 🚀 About Me
-
-- 🎓 M.Eng. student
-- 🏆 Undergraduate National Scholarship
-- 🔭 Currently working on **E-commerce Generative Recommendation**
-- 🌱 Learning **Semantic ID, SFT, GRPO, LLM Alignment, and Recommendation Reasoning**
-- 👯 Interested in **Generative Recommendation, LLM Post-training, Multimodal Learning, and Computer Vision**
-- 📝 Writing day-by-day technical blogs and experiment notes in my GitHub projects
+- 🎓 电子科技大学硕士在读
+- 🏆 本科国家奖学金获得者
+- 🔭 目前关注 **推广搜、推荐系统、多模态、计算机视觉和 Agent**
+- 🌱 正在学习和实践 **LLM Post-training、SFT / GRPO、Semantic ID、Multimodal Learning 和 Agent 工程化**
+- 📝 习惯把项目复现、实验过程和踩坑记录沉淀到 GitHub
 
 ---
 
@@ -25,6 +20,7 @@
   <img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/DeepSpeed-0B5CAD?style=flat-square" />
   <img src="https://img.shields.io/badge/Recommendation-2E8B57?style=flat-square" />
+  <img src="https://img.shields.io/badge/Agent-FF7AC8?style=flat-square" />
   <img src="https://img.shields.io/badge/Computer%20Vision-6A5ACD?style=flat-square" />
 </p>
 
