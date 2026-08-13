@@ -26,7 +26,8 @@
   <g transform="translate(295 50)">
     <path d="M0 110H380" fill="none" stroke="#586069" stroke-width="1"/>
     <path d="M0 0V110" fill="none" stroke="#586069" stroke-width="1"/>
-    <path d="M0 110 L64 110 L128 110 L192 110 L242 0 L264 110 L316 110 L348 87 L380 37 L380 110 Z" fill="#ECFDED" stroke="#087F73" stroke-width="2" stroke-linejoin="round"/>
+    <path d="M0 110 L64 110 L128 110 L192 110 C210 110 224 70 242 0 C248 35 255 82 264 110 L316 110 C328 110 338 100 348 87 C360 71 370 50 380 37 L380 110 Z" fill="#ECFDED"/>
+    <path d="M0 110 L64 110 L128 110 L192 110 C210 110 224 70 242 0 C248 35 255 82 264 110 L316 110 C328 110 338 100 348 87 C360 71 370 50 380 37" fill="none" stroke="#087F73" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
     <g class="axis" text-anchor="middle">
       <path d="M0 110v6M64 110v6M128 110v6M192 110v6M253 110v6M317 110v6M380 110v6" fill="none" stroke="#586069"/>
       <text x="0" y="126">25/08</text>
