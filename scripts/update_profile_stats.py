@@ -13,7 +13,7 @@ ROOT = Path(__file__).resolve().parents[1]
 SVG_PATH = ROOT / "assets" / "profile-details.svg"
 USERNAME = os.environ.get("GITHUB_USERNAME", "lingzhl")
 EXTRA_REPOS = os.environ.get(
-    "CONTRIBUTED_REPOS", "limouren2000/YYAbroad"
+    "CONTRIBUTED_REPOS", "limouren2000/YYGlobal"
 ).split(",")
 
 

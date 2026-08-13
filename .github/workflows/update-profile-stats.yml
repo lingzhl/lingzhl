@@ -9,7 +9,7 @@ on:
       - "scripts/update_profile_stats.py"
       - "assets/profile-details.svg"
   schedule:
-    - cron: "17 2 * * *"
+    - cron: "17 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -26,7 +26,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_USERNAME: lingzhl
-          CONTRIBUTED_REPOS: limouren2000/YYAbroad
+          CONTRIBUTED_REPOS: limouren2000/YYGlobal
         run: python scripts/update_profile_stats.py
 
       - name: Commit updated stats
