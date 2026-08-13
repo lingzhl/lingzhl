@@ -7,7 +7,7 @@
 - 🎓 M.Eng. student at UESTC
 - 🏆 Undergraduate National Scholarship recipient
 - 🔭 Interested in **promotion search, large language models, computer vision, multimodal learning, and agents**, while exploring **LLM post-training, SFT / GRPO, Semantic IDs, and agent engineering**
-- 📝 I like to document experiments, reproductions, and lessons learned on GitHub
+- 📝 Keep building, keep learning, and make every experiment reproducible.
 
 ---
 
@@ -24,5 +24,3 @@
 </p>
 
 ---
-
-> Keep building, keep learning, and make every experiment reproducible.
