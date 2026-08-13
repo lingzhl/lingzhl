@@ -1,14 +1,23 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=26&duration=2600&pause=1200&color=A855F7&center=true&vCenter=true&width=720&lines=Hi~+I%27m+Lynn+%F0%9F%91%8B" alt="Hi~ I'm Lynn typing title" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fredoka&weight=600&size=34&duration=2600&pause=1200&color=A855F7&center=true&vCenter=true&width=520&lines=Hi~+I%27m+Lynn+%F0%9F%91%8B" alt="Hi~ I'm Lynn typing title" />
 </p>
 
-### 关于我
+### About Me
 
-- 🎓 电子科技大学硕士在读
-- 🏆 本科国家奖学金获得者
-- 🔭 目前关注 **推广搜、推荐系统、多模态、计算机视觉和 Agent**
-- 🌱 正在学习和实践 **LLM Post-training、SFT / GRPO、Semantic ID、Multimodal Learning 和 Agent 工程化**
-- 📝 习惯把项目复现、实验过程和踩坑记录沉淀到 GitHub
+- 🎓 M.Eng. student at UESTC
+- 🏆 Undergraduate National Scholarship recipient
+- 🔭 Interested in **recommender systems, multimodal learning, computer vision, and agents**
+- 🌱 Exploring **LLM post-training, SFT / GRPO, Semantic ID, and agent engineering**
+- 📝 I like to document experiments, reproductions, and lessons learned on GitHub
+
+---
+
+### Currently Focusing On
+
+- Recommender systems
+- Multimodal learning
+- Computer vision
+- Agents
 
 ---
 
