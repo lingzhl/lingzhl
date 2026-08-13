@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=34&pause=900&color=24292F&center=true&vCenter=true&width=720&lines=Hi%2C+I%27m+Lynn;M.Eng.+student+at+UESTC;Recommendation+Algorithms+%7C+LLM+Post-training+%7C+Multimodal+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=40&duration=2400&pause=1200&color=FF7AC8&center=true&vCenter=true&width=520&lines=Hi~+I%27m+Lynn+%F0%9F%91%8B" alt="Hi~ I'm Lynn typing title" />
 </p>
 
 <h3 align="center">M.Eng. student at UESTC | Recommendation Algorithms | LLM Post-training | Multimodal Learning</h3>
