@@ -1,4 +1,6 @@
-<h1 align="center">Hi~ I'm Lynn 👋</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=34&pause=900&color=24292F&center=true&vCenter=true&width=720&lines=Hi%2C+I%27m+Lynn;M.Eng.+student+at+UESTC;Recommendation+Algorithms+%7C+LLM+Post-training+%7C+Multimodal+Learning" alt="Typing SVG" />
+</p>
 
 <h3 align="center">M.Eng. student at UESTC | Recommendation Algorithms | LLM Post-training | Multimodal Learning</h3>
 
