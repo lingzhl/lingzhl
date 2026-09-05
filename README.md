@@ -5,16 +5,9 @@
 ### 👋 About Me
 
 - 🎓 M.Eng. student at UESTC
-- 🏆 Undergraduate National Scholarship recipient
-- 🔭 Interested in **promotion search, large language models, computer vision, multimodal learning, and agents**, while exploring **LLM post-training, SFT / GRPO, Semantic IDs, and agent engineering**
 - 📝 Keep building, keep learning!
 ---
 
-### 💻 Currently Focusing On
-
-`Promotion Search` `Large Language Models` `Computer Vision` `Multimodal Learning` `Agents`
-
----
 
 ### 📊 GitHub Stats
 
