@@ -6,7 +6,7 @@
 
 - 🎓 M.Eng. student at UESTC
 - 🏆 Undergraduate National Scholarship recipient
-- 🔭 Interested in **promotion search, large language models, computer vision, multimodal learning, and agents**
+- 🔭 Interested in **promotion search, LLM, computer vision, multimodal learning, and Agents**
 - 📝 Keep building, keep learning!
 ---
 
