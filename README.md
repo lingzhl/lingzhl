@@ -4,7 +4,7 @@
 
 ### 👋 About Me
 
-- 🎓 M.Eng. student at UESTC
+- 🎓 M.Eng. student at Hogwarts
 - 🏆 Undergraduate National Scholarship recipient
 - 🔭 Interested in **promotion search, LLM, computer vision, multimodal learning, and Agents**
 - 📝 Keep building, keep learning!
